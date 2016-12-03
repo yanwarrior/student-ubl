@@ -2,11 +2,11 @@ from setuptools import setup
 
 
 def readme():
-    with open('README.rst') as f:
+    with open('READMES.rst') as f:
         return f.read()
 
 setup(name='student_ubl',
-      version='0.1',
+      version='0.0.2',
       description='Simple API for accessing data student budiluhur site',
       long_description=readme(),
       url='https://github.com/yanwarsolah/student-ubl',

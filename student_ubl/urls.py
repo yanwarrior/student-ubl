@@ -8,4 +8,5 @@ URL = {
 	'data_akademik': 'https://student.budiluhur.ac.id/mhs_pilthajar.php?id=1',
 	'post_nilai_semester': 'https://student.budiluhur.ac.id/mhs_nilsem.php',
 	'hsk_online': 'https://student.budiluhur.ac.id/mhs_hsk.php',
+	'foto': 'https://student.budiluhur.ac.id/foto/{}.jpg',
 }

@@ -19,7 +19,7 @@ pada contoh di bawah kita akan mengambil informasi tentang biodata student UBL:
 >>> mahasiswa.authenticated(nim='student nim', password='student password')
 >>>
 >>> # Menggunakan api biodata
->>> biodata = mahasiswa.student_ubl.biodata_api()
+>>> biodata = mahasiswa.biodata_api()
 >>> # cek apakah yang login mahasiswa UBL ?
 >>> biodata.is_student()
 True
