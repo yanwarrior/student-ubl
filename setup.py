@@ -16,7 +16,7 @@ setup(name='student_ubl',
       packages=['student_ubl'],
       install_requires=[
           'beautifulsoup4==4.5.1',
-          'requests==2.12.3'
+          'requests==2.20.0'
       ],
       classifiers=[
         'Development Status :: 4 - Beta',
